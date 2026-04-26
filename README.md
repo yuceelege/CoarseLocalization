@@ -1,6 +1,6 @@
 # CoarseLocalization
 
-CoarseLocalization is a compact research codebase for **set-based active localization** in a 2D linear system with binary proximity measurements.
+CoarseLocalization is a compact research codebase for **set-based active localization** in an LTI system with binary proximity measurements.
 
 This repository contains the code for the paper:
 
