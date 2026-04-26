@@ -58,16 +58,3 @@ Landmark-only plot:
 python plotting/plotter_landmark.py --experiment_name test --max_index 1000
 ```
 
-## Notes
-
-- The code assumes a discrete-time linear system `x_{k+1} = A x_k + B u_k`.
-- Measurements are based on distance-to-landmark thresholding with sensor radius.
-- Geometry operations rely on `shapely`.
-
-## License
-
-Add your preferred license before publishing (e.g., MIT/BSD-3-Clause).
-
-## Suggested GitHub description (About)
-
-Set-based active localization in 2D linear systems with geometric uncertainty shrinking and landmark-region refinement.
