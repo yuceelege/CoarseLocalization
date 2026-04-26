@@ -7,7 +7,7 @@ This repository contains the code for the paper:
 **Active Localization of Unstable Systems with Coarse Information**  
 Ege Yuceel, Daniel Liberzon, Sayan Mitra  
 arXiv: https://arxiv.org/pdf/2602.06191  
-Accepted to appear in the **ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2023)**.
+Accepted to appear in the **ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2026)**.
 
 At each step, the algorithm:
 - propagates the current feasible state set,
